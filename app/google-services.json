@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "515915397291",
+    "firebase_url": "https://taste-19f0c.firebaseio.com",
+    "project_id": "taste-19f0c",
+    "storage_bucket": "taste-19f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515915397291:android:4f02c6dfc4959607",
+        "android_client_info": {
+          "package_name": "com.example.faizu.taste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515915397291-99llgt3kaskpia41m49bteb0nsgnno71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faizu.taste",
+            "certificate_hash": "9ee8e2f956aed70d21102e28970d7b058bcac434"
+          }
+        },
+        {
+          "client_id": "515915397291-4u427o9hlltvb9qee6eodbksvp8eteha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCHh_7Pn3swaIIYx7PV4aueaZZNsTGSWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515915397291-4u427o9hlltvb9qee6eodbksvp8eteha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
